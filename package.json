@@ -1,0 +1,22 @@
+{
+    "name": "blythetwebsite",
+    "version": "0.0.1",
+    "description": "Personal portfolio",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "PersonalWebsite"
+    },
+    "keywords": [
+      "Portfolio",
+      "Blythe",
+      "Thompson",
+      "Blythe",
+      "Thompson"
+    ],
+    "author": "Blythe Thompson",
+    "license": "ISC"
+  }
